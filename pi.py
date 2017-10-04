@@ -206,8 +206,8 @@ def main():
 
 
 if __name__ == '__main__':
-    
-    #main()
+    # Uncomment the Main function and comments the rest to test your program
+    # main()
     env = gym.make("Assignment1-Taxi-v2")
     print(env.__doc__)
 
